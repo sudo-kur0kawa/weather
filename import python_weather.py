@@ -2,7 +2,6 @@ import python_weather
 
 import asyncio
 import os
-import emoji
 
 user_city = input(print("enter your city:"))
 
