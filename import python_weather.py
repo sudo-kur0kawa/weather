@@ -23,6 +23,7 @@ async def main() -> None:
                 print("\U0001F975")
             else:
                 print("\U0001F976")
+print("have a good day!")
                 
 
 if __name__ == '__main__':
